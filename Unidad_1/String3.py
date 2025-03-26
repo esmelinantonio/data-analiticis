@@ -1,0 +1,1 @@
+print("Barra Normal: /\nBarra Invertida: \\")
