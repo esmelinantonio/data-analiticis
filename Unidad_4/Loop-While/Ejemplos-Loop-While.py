@@ -19,8 +19,8 @@
 #         break
 #     print(letra)
 
-nombre = input("Tu nombre: ")
-for letra in nombre:
-    if letra == 'r':
-        continue
-    print(letra)
+# nombre = input("Tu nombre: ")
+# for letra in nombre:
+#     if letra == 'r':
+#         continue
+#     print(letra)
